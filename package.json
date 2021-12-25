@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "jest",
     "eject": "react-scripts eject",
-    "postinstall": "husky install"
+    "postinstall": "husky install && npx husky add .husky/pre-push \"yarn test\""
   },
   "eslintConfig": {
     "extends": [
