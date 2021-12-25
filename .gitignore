@@ -8,6 +8,7 @@ bin-release/
 .idea
 .settings/
 node_modules
+yarn-error.log
 # Executables
 *.swf
 *.air
