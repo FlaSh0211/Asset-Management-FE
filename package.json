@@ -29,8 +29,10 @@
     "eject": "react-scripts eject",
     "postinstall": "husky install"
   },
-  "hooks": {
-    "pre-push": "yarn test"
+  "husky": {
+    "hooks": {
+      "pre-push": "yarn test"
+    }
   },
   "eslintConfig": {
     "extends": [
