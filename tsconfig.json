@@ -28,6 +28,7 @@
     "noUnusedParameters": false,
     "noUnusedLocals": false,
     "noImplicitThis": false,
+    "jsxImportSource": "@emotion/react"
   },
   "include": [
     "src"
