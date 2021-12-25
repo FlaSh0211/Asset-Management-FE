@@ -6,6 +6,8 @@
 * Typescript
 * Emotion js
 * React Query
+* material UI
+* husky
 
 ## 디렉토리 구조
 
