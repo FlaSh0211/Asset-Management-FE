@@ -17,6 +17,7 @@
 * React Query
 * material UI
 * husky
+* ramda
 
 백엔드:
 * NestJS
